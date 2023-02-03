@@ -3,7 +3,7 @@ PrusaSlicer vendor bundles for AMMELab managed printers
 
 ## Installation
 
-* Download the source code of this repository from the [latest release](https://github.com/ammelab/PrusaSlicer-settings/releases/latest)
+* Download the source code of this repository [here](https://github.com/ammelab/PrusaSlicer-settings/archive/refs/heads/main.zip) (Code > Download ZIP)
 
 * Unzip the file and place the contents in the `vendor` folder of PrusaSlicer's configuration directory depending on your OS
   * _Windows_ - `C:Users\_your_username\AppData\Roaming\PrusaSlicer\vendor`
