@@ -12,3 +12,26 @@ PrusaSlicer vendor bundles for AMMELab managed printers
 
 * Use PrusaSlicer's Configuration Wizard to select the vendor, printer, variants and filament profiles
 * Repeat the above steps for each new release (or use [Git](https://git-scm.com/) instead)
+  
+## Contained Profiles
+### NUPBOX
+#### Variants:
+- 0.4mm Nozzle
+
+#### Print:
+- 0.08mm FINE
+- 0.12mm FINE
+- 0.2mm NORMAL
+- 0.2mm SMOOTH
+- 0.2mm SINGLEWALL
+- 0.2mm STRONG
+- 0.32mm DRAFT
+
+#### Filament:
+- PLA
+- LW-PLA
+- PETG
+- ABS
+- ASA
+- TPU 85A
+- CarbonX ABS+CF
