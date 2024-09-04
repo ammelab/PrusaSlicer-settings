@@ -30,8 +30,11 @@ PrusaSlicer vendor bundles for AMMELab managed printers
 #### Filament:
 - PLA
 - LW-PLA
+- PLA+Copper
+- PLA+Metal
 - PETG
 - ABS
 - ASA
 - TPU 85A
 - CarbonX ABS+CF
+- ePA-CF
